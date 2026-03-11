@@ -9,17 +9,6 @@ O objetivo é demonstrar conhecimentos em planejamento, criação e execução d
 - Qase
 - GitHub
 
-## Metodologia
-
-Os cenários de teste foram escritos utilizando a linguagem Gherkin.
-
-Estrutura utilizada:
-
-Dado  
-E  
-Quando  
-Então
-
 ## Funcionalidades testadas
 
 ### Login
@@ -39,6 +28,17 @@ Então
 | Login de usuário | Login com credenciais válidas / Login com senha incorreta / Login com campos vazios | Executado |
 | Carrinho de compras | Adicionar produto ao carrinho / Visualizar produtos no carrinho | Executado |
 | Checkout | Iniciar processo de checkout | Executado |
+
+## Metodologia
+
+Os cenários de teste foram escritos utilizando a linguagem Gherkin.
+
+Estrutura utilizada:
+
+Dado  
+E  
+Quando  
+Então
 
 ## Cenários de teste (Gherkin)
 
@@ -75,5 +75,6 @@ Localização:
 
 
 /bug-report/bug-report-login.md
+
 
 
