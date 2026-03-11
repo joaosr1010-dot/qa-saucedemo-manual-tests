@@ -40,16 +40,17 @@ Então
 
 ### Execução da suite de testes de Login
 
-![Execução login](evidences/login-test-run.png)
+![Execução login](evidences/qase-login-tests.png)
 
 ### Execução da suite de testes de Checkout
 
-![Execução checkout](evidences/checkout-test-run.png)
+![Execução checkout](evidences/qase-checkout-tests.png)
 
 ## Bug report
 
 Foi documentado um bug relacionado à validação de campos de login.
 
 Localização:
+
 
 /bug-report/bug-report-login.md
