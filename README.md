@@ -32,6 +32,14 @@ Então
 - Acesso ao carrinho de compras
 - Início do processo de checkout
 
+## Cobertura de testes
+
+| Funcionalidade | Cenários de teste | Status |
+|---|---|---|
+| Login de usuário | Login com credenciais válidas / Login com senha incorreta / Login com campos vazios | Executado |
+| Carrinho de compras | Adicionar produto ao carrinho / Visualizar produtos no carrinho | Executado |
+| Checkout | Iniciar processo de checkout | Executado |
+
 ## Cenários de teste (Gherkin)
 
 Os cenários de teste deste projeto foram escritos utilizando a sintaxe Gherkin, seguindo a estrutura:
@@ -67,4 +75,5 @@ Localização:
 
 
 /bug-report/bug-report-login.md
+
 
