@@ -32,6 +32,19 @@ Então
 - Acesso ao carrinho de compras
 - Início do processo de checkout
 
+## Cenários de teste (Gherkin)
+
+Os cenários de teste deste projeto foram escritos utilizando a sintaxe Gherkin, seguindo a estrutura:
+
+Dado  
+E  
+Quando  
+Então  
+
+Os cenários completos podem ser visualizados no arquivo:
+
+📄 test-cases/gherkin-test-cases.md  
+
 ## Estrutura das suites de testes
 
 ![Estrutura das suites](evidences/test-suites-structure.png)
@@ -54,3 +67,4 @@ Localização:
 
 
 /bug-report/bug-report-login.md
+
