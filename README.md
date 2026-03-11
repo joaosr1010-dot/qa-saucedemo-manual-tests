@@ -6,7 +6,7 @@ O objetivo é demonstrar conhecimentos em planejamento, criação e execução d
 
 ## Ferramentas utilizadas
 
-- Qase
+- Qase 
 - GitHub
 
 ## Funcionalidades testadas
@@ -66,6 +66,7 @@ Localização:
 
 
 /bug-report/bug-report-login.md
+
 
 
 
