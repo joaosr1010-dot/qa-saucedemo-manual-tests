@@ -32,15 +32,15 @@ Então o sistema deve exibir mensagem de erro
 ## Cenário: Adicionar produto ao carrinho
 
 Dado que o usuário está logado no sistema  
-E visualiza uma lista de produtos  
-Quando ele clica em adicionar produto ao carrinho  
-Então o sistema deve atualizar o carrinho com o item selecionado  
+E visualiza a lista de produtos  
+Quando ele clica no botão "Adicionar ao carrinho"
+Então o sistema deve atualizar o ícone do carrinho com o item adicionado
 
 ---
 
 ## Cenário: Iniciar processo de checkout
 
-Dado que o usuário possui produtos no carrinho  
-E está na página do carrinho  
+Dado que o usuário está na página do carrinho
+E possui pelo menos um produto adicionado 
 Quando ele clica no botão checkout  
 Então o sistema deve redirecionar para a página de informações do cliente  
