@@ -6,9 +6,16 @@ Validar funcionalidades principais do sistema SauceDemo através de testes manua
 
 ## Funcionalidades testadas
 
-- Login de usuário
+### Login
+- Login com credenciais válidas
+- Login com credenciais inválidas
+- Validação de campos obrigatórios
+
+### Checkout
 - Adição de produtos ao carrinho
-- Processo inicial de checkout
+- Acesso ao carrinho de compras
+- Início do processo de checkout
+
 
 ## Tipos de teste
 
@@ -33,5 +40,6 @@ Quando
 Então
 
 ## Resultado da execução
+
 
 Todos os cenários executados com sucesso durante o Test Run.
