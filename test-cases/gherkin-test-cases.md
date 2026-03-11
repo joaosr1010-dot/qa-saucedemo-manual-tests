@@ -37,6 +37,20 @@ Então o sistema deve exibir mensagem de erro
 ---
 
 
+## Cenário: Login com campos vazios
+
+Dado que o usuário acessa a página de login
+
+E não preenche usuário e senha  
+
+Quando ele tenta realizar login  
+
+Então o sistema deve informar que os campos são obrigatórios
+
+
+---
+
+
 # Suite: Testes de Finalização de Compra
 
 
@@ -49,6 +63,20 @@ E visualiza a lista de produtos
 Quando ele clica no botão "Adicionar ao carrinho"
 
 Então o sistema deve atualizar o ícone do carrinho com o item adicionado
+
+---
+
+
+## Cenário: Visualizar produtos no carrinho
+
+Dado qque o usuário está logado no sistema
+
+E possui um produto adicionado ao carrinho
+
+Quando ele clica no ícone do carrinho
+
+Então o sistema deve exibir a página com os produtos adicionados
+
 
 ---
 
