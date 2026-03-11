@@ -3,7 +3,7 @@
 ## Objetivo
 
 Validar funcionalidades principais do sistema SauceDemo através de testes manuais.
-
+ 
 ## Funcionalidades testadas
 
 ### Login
@@ -43,3 +43,4 @@ Então
 
 
 Todos os cenários executados com sucesso durante o Test Run.
+
