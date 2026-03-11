@@ -51,4 +51,5 @@ Baixa
 
 ## Evidência do problema
 
-![Erro de validação no login](../evidences/bug-login-validation.png)
+![Erro de validação no login](../evidences/bug-login-validation.PNG)
+
