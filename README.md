@@ -29,29 +29,20 @@ O objetivo é demonstrar conhecimentos em planejamento, criação e execução d
 | Carrinho de compras | Adicionar produto ao carrinho / Visualizar produtos no carrinho | Executado |
 | Checkout | Iniciar processo de checkout | Executado |
 
-## Metodologia
-
-Os cenários de teste foram escritos utilizando a linguagem Gherkin.
-
-Estrutura utilizada:
-
-Dado  
-E  
-Quando  
-Então
-
 ## Cenários de teste (Gherkin)
 
-Os cenários de teste deste projeto foram escritos utilizando a sintaxe Gherkin, seguindo a estrutura:
+Os cenários de teste deste projeto foram escritos utilizando a linguagem **Gherkin**, seguindo a estrutura:
 
 Dado  
 E  
 Quando  
 Então  
 
+Os cenários foram organizados em suites de testes e executados utilizando a ferramenta Qase.
+
 Os cenários completos podem ser visualizados no arquivo:
 
-📄 test-cases/gherkin-test-cases.md  
+📄 test-cases/gherkin-test-cases.md
 
 ## Estrutura das suites de testes
 
@@ -75,6 +66,7 @@ Localização:
 
 
 /bug-report/bug-report-login.md
+
 
 
 
